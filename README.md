@@ -1,2 +1,2 @@
 # Bingo_Pet_Health_Care_Service
-# Exhibition Project
+![설명](./설명.jpg)

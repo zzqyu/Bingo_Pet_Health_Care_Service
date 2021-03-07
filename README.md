@@ -34,5 +34,5 @@ https://github.com/Jasonchenlijian/FastBle) : BLE 관련
   * [FloatingActionButton (Apache License 2.0)](https://github.com/Clans/FloatingActionButton):커스텀 위젯 및 뷰 라이브러리
   * [SwipeMenuListView (MIT)](https://github.com/baoyongzhang/SwipeMenuListView):커스텀 위젯 및 뷰 라이브러리
 
-![Component](./component.jpg)
+![Component](./Component.jpg)
 ![설명](./설명.jpg)
